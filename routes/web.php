@@ -8,3 +8,6 @@ Route::get('/', function () {
 Route::view('public_portal','public_portal');
 Route::view('important_links', 'important_links');
 Route::view('travel_instructions', 'travel_instructions');
+Route::view('news', 'news');
+Route::view('gallery', 'gallery');
+Route::view('services', 'services');
