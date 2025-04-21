@@ -13,3 +13,4 @@ Route::view('gallery', 'gallery');
 Route::view('services', 'services');
 Route::view('2017_act', '2017_act');
 Route::view('press_release', 'press_release');
+Route::view('rules', 'rules');
